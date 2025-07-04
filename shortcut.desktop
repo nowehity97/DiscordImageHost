@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Flameshot Upload
+Comment=Upload screenshot to server
+Exec=/home/user/Deskop/upload.sh
+Icon=flameshot
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=screenshot;upload;
+StartupNotify=true
